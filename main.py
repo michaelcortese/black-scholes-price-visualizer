@@ -52,7 +52,7 @@ def main():
 
     st.plotly_chart(fig)
 
-    # Add explanatory text
+    # explanation of parameters
     st.markdown("""
     ### Parameters Explanation:
     - **S**: Current stock price
